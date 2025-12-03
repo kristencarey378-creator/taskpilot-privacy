@@ -1,5 +1,5 @@
 # Privacy Policy for TaskPilot: Life Admin
-**Last updated: [MONTH DAY, YEAR]**
+**Last updated: 12/3/2025**
 
 TaskPilot: Life Admin (“the App”) values your privacy. This Privacy Policy explains what information we collect, how it is used, and the choices you have. TaskPilot is designed to store data locally on your device only, giving you full control over your information.
 
@@ -55,4 +55,4 @@ We may update this Privacy Policy occasionally. The “Last updated” date will
 
 If you have questions about this Privacy Policy or your data, you can contact the developer at:
 
-**[YOUR EMAIL HERE]**
+**k.care.bear777@gmail.com**
